@@ -1,0 +1,7 @@
+Un grupo está desarrollando un sistema de gestión académica.
+
+El sistema tiene una función que determina si un aprendiz aprueba o no una evidencia.
+
+Regla de negocio:
+- Si la nota es mayor o igual a 70 → Aprueba.
+- Si la nota es menor a 70 → No aprueba.
